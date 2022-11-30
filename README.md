@@ -1,21 +1,21 @@
 # perbaikan-ghardi
-1.e
-2.e
-3.d
-4.sebuah
-5.c
-6.d
-7.c
-8.c
-9.b
-10.c
-11.d
-12.b
-13.b
-14.sebuah
-15.e
-16.d
-17.b
-18.sebuah
-19.d
-20.e
+1.e <rb>
+2.e <rb>
+3.d <rb>
+4.sebuah <rb>
+5.c <rb>
+6.d <rb>
+7.c <rb>
+8.c <rb>
+9.b <rb>
+10.c <rb>
+11.d <rb>
+12.b <rb>
+13.b <rb>
+14.sebuah <rb>
+15.e <rb>
+16.d <rb>
+17.b <rb>
+18.sebuah <rb>
+19.d <rb>
+20.e <rb>
